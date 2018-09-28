@@ -2,7 +2,7 @@
 
 simple Html code to genrate Privacy policy for Android and ios Apps
 
-https://abodali.github.io/Privacy-policy-generator/index.html
+https://abodali.github.io/Privacy-policy-generator
 
 
 Built with  by Nishant (...with lots of caffiene)
